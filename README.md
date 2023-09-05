@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi this is Ajin 👋
+
+### Wellcome to my repository
+
+- 🔭 I’m currently working as a Assitant Reasearch Programmer (python,Machine learning,Deep Learning).
+- 🌱 I’m currently learning about Data Science,Machine learning,Deep Learning and computer vision.
+- 👯 I’m looking to collaborate on an organization to work with them.
+- 🤔 I’m looking for job as a Data scientist.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/) ,Gmail : ajinleo9940@gmail.com
+
 
 <!--
 **AJIN-B/AJIN-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
