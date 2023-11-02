@@ -12,7 +12,9 @@
 - 🔧 Committed to maintaining high coding standards, documentation, and reproducibility for transparent and accessible research.
 - 🎯 Skilled in utilizing various programming languages, including Python, R, and SQL, for comprehensive data manipulation and analysis.
 - 🤔 Actively seeking opportunities to apply my data science skills to contribute to meaningful projects and make a positive impact.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/) ,Gmail : ajin.b.edu@gmail.com
+- 📫 How to reach me:
+> [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/)
+> Gmail : ajin.b.edu@gmail.com
 
 
 <!--
