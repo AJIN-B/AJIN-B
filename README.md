@@ -2,8 +2,7 @@
 
 ### Wellcome to my repository
 
-- 🔭 I’m currently working as a Reasearch Assitant Programmer (python,Machine learning,Deep Learning).
-- 🌱 I’m currently learning about Data Science,Machine learning,Deep Learning and computer vision.
+- 🔭 I’m currently working as a Assitant Programmer (python,Machine learning,Deep Learning).
 - 📊 Leveraging data science methodologies to derive actionable insights and drive informed decision-making.
 - 📈 Experienced in developing and deploying machine learning models for predictive analysis and pattern recognition.
 - 📊 Proficient in data visualization techniques to communicate complex ideas and findings effectively.
@@ -13,8 +12,7 @@
 - 🔧 Committed to maintaining high coding standards, documentation, and reproducibility for transparent and accessible research.
 - 🎯 Skilled in utilizing various programming languages, including Python, R, and SQL, for comprehensive data manipulation and analysis.
 - 🤔 Actively seeking opportunities to apply my data science skills to contribute to meaningful projects and make a positive impact.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/) ,Gmail : ajinleo9940@gmail.com
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/) ,Gmail : ajin.b.edu@gmail.com
 
 
 <!--
