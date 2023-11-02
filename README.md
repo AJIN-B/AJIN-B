@@ -10,7 +10,7 @@
 - 📄 Demonstrated expertise in natural language processing and computer vision applications for comprehensive data interpretation.
 - ⛳ Passionate about solving real-world problems through innovative data-driven solutions and continuous learning in the field.
 - 🔧 Committed to maintaining high coding standards, documentation, and reproducibility for transparent and accessible research.
-- 🎯 Skilled in utilizing various programming languages, including Python, R, and SQL, for comprehensive data manipulation and analysis.
+- 🎯 Skilled in utilizing Python, PowerBI ,Tabulea and SQL, for comprehensive data manipulation and analysis.
 - 🤔 Actively seeking opportunities to apply my data science skills to contribute to meaningful projects and make a positive impact.
 - 🤝 You can find me on [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/)
 - 📫 You can reach out to me at ajin.b.edu@gmail.com
