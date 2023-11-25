@@ -22,7 +22,7 @@
   </a>
   
   <!-- Numpy -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Numpy" width="70" height="40"/>
   </a>
 
@@ -37,7 +37,7 @@
   </a>
   
   <!-- Tensorflow -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" width="70" height="40"/>
   </a>
   
