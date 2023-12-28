@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ajin</h1>
-<h3 align="center">A passionate ML Engineer</h3>
+<h3 align="center">A passionate ML/DL Engineer</h3>
 
 ### Wellcome to my repository
 
-- 🔭 I’m currently working as a Assitant Programmer (python,Machine learning,Deep Learning).
-- 🎯 Skilled in utilizing Python, PowerBI ,Tabulea and SQL, for comprehensive data manipulation and analysis.
-- 🌱 I’m currently learning **Deep learning,Computer Vision, LLMOps**
-- 🤔 Actively seeking opportunities to apply my data science skills to contribute to meaningful projects and make a positive impact.
-- 💬 Ask me about **Machine Learning, MLOps, NLP, LLMs, Deep Learning, Data Science**
+- 🔭 I’m currently working as a AI Deep Learning Enginerring.
+- 🎯 Skilled in utilizing Python, AWS ,Docker ,Wand DB ,DeepStream and SQL, for comprehensive data manipulation and analysis.
+- 🌱 I’m currently learning about **Deep learning and Computer Vision**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and Data Science**
 - 🤝 You can find me on [LinkedIn](https://www.linkedin.com/in/ajin-b-0851191b0/)
 - 📫 You can reach out to me at ajin.b.edu@gmail.com
 - 📄 Know about my [experiences](https://docs.google.com/document/d/14__rAIziYlwmE9QPHz9pM05GEBXuiKYj2VHBbQr05WY/edit?usp=sharing)
